@@ -2,4 +2,5 @@
 *.gsheet
 sitecake-backup/
 sitecake-temp/
+sitecake/
 sitecake.php
