@@ -1,3 +1,3 @@
 # JamesonWilder.me
 
-ArcGIS Online training examples
+ArcGIS training examples
